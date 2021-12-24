@@ -150,7 +150,7 @@ maxconnections=256
 par=4
 dbcache=2056
 onlynet=ipv4
-addnode 66.225.73.132
+addnode=66.225.73.132
 addnode=209.151.150.72
 addnode=94.237.79.27
 addnode=95.111.216.12
