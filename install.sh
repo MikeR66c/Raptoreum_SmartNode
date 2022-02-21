@@ -146,18 +146,18 @@ daemon=1
 listen=1
 smartnodeblsprivkey=$smartnodeblsprivkey
 externalip=$WANIP
-maxconnections=256
+maxconnections=128
 par=4
-dbcache=2056
+dbcache=800
 onlynet=ipv4
 addnode=66.225.73.132
-addnode=209.151.150.72
-addnode=94.237.79.27
-addnode=95.111.216.12
-addnode=198.100.149.124
-addnode=198.100.146.111
-addnode=5.135.187.46
-addnode=5.135.179.95
+addnode=207.244.252.111
+addnode=144.126.156.102
+addnode=66.94.124.144
+addnode=144.126.134.246
+addnode=66.94.107.12
+addnode=194.163.164.90
+addnode=207.244.249.180
 EOF
 }
 
